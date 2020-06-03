@@ -50,7 +50,8 @@ group :development do
 
   # The following gems aids with the nuts and bolts
   # of interacting with the browser.
-  gem 'selenium-webdriver'
+  
+  gem 'webdrivers'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
